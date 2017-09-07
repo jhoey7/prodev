@@ -1,0 +1,46 @@
+[
+	{
+		"name":"Develop XLKU",
+		"desc":"Design Database",
+		"values":[{
+			"from":"2016-11-28",
+			"to":"2016-11-30",
+			"label":"Design Database",
+			"desc":"Butir Veri A",
+			"customClass":"ganttGreen"
+		}]
+	},
+	{
+		"name":"Develop XLKU",
+		"desc":"Develop Module UX",
+		"values":[{
+			"from":"2016-12-01",
+			"to":"2016-12-05",
+			"label":"Develop Module UX",
+			"desc":"Joni Iskandar",
+			"customClass":"ganttGreen"
+		}]
+	},
+	{
+		"name":"Develop XLKU",
+		"desc":"Testing Aplikasi",
+		"values":[{
+			"from":"2017-01-05","to":
+			"2016-12-12",
+			"label":"Testing Aplikasi",
+			"desc":"Andang Dwi Jayanto",
+			"customClass":"ganttGreen"
+		}]
+	},
+	{
+		"name":"Develop XLKU",
+		"desc":"Develope API",
+		"values":[{
+			"from":"2016-11-01",
+			"to":"2016-11-05",
+			"label":"Develope API",
+			"desc":"Joni Iskandar",
+			"customClass":"ganttGreen"
+		}]
+	}
+]
